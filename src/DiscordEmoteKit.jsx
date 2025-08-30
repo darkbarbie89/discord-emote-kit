@@ -538,7 +538,7 @@ export default function DiscordEmoteKit() {
                   borderRadius: '12px'
                 }}
               />
-              <h1 style={styles.title}>Discord Emote Pro</h1>
+              <h1 style={styles.title}>Discord Emote Gear</h1>
             </div>
             <p style={{ fontSize: '20px', color: '#cbd5e1', marginBottom: '8px' }}>
               Perfect Discord Emotes in Seconds
@@ -950,7 +950,7 @@ export default function DiscordEmoteKit() {
           }}>
             <div style={{ marginBottom: '24px' }}>
               <h3 style={{ fontSize: '20px', fontWeight: '600', marginBottom: '16px' }}>
-                Discord Emote Pro
+                Discord Emote Gear
               </h3>
               <p style={{ color: '#94a3b8', marginBottom: '24px', maxWidth: '400px', margin: '0 auto' }}>
                 The fastest way to optimize images for Discord. Made with ❤️ for the Discord community.
@@ -1003,7 +1003,7 @@ export default function DiscordEmoteKit() {
               </a>
               
               <a
-                href="mailto:support@discordemotepro.com"
+                href="mailto:emotegear@gmail.com"
                 style={{
                   color: '#94a3b8',
                   transition: 'color 0.2s',
@@ -1027,17 +1027,10 @@ export default function DiscordEmoteKit() {
               paddingBottom: '48px'
             }}>
               <p style={{ marginBottom: '8px' }}>
-                © 2024 Discord Emote Pro. Not affiliated with Discord Inc.
+                © 2025 Discord EmoteGear. Not affiliated with Discord Inc.
               </p>
               <p style={{ fontSize: '12px' }}>
-                Made by <a 
-                  href="https://twitter.com/yourusername" 
-                  style={{ color: '#a855f7', textDecoration: 'none' }}
-                  onMouseEnter={(e) => e.currentTarget.style.textDecoration = 'underline'}
-                  onMouseLeave={(e) => e.currentTarget.style.textDecoration = 'none'}
-                >
-                  Your Name
-                </a>
+                
               </p>
             </div>
           </footer>
